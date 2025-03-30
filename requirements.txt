@@ -1,0 +1,7 @@
+# Requirements pour ChatToPDF
+pylatex==1.4.2
+matplotlib==3.7.1
+fpdf2==2.7.6
+
+# Pour l'environnement LaTeX (optionnel si vous utilisez matplotlib)
+# MiKTeX ou TeXLive doit être installé séparément
